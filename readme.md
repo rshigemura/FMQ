@@ -8,7 +8,7 @@ Package: [https://pypi.python.org/pypi/fmq](https://pypi.python.org/pypi/fmq)
 - Requirements: python2.7 or python3.7+
 
 ```
-pip install fmq
+pip install .
 ```
 
 ## Introduction
